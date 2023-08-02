@@ -1,0 +1,30 @@
+/* media query */
+/* @media only screen and (max-width: 650px) {
+  .tile {
+    flex-direction: column;
+  }
+} */
+
+/* container query */
+/* .main, .sidebar {
+  container-type: inline-size;
+}
+
+@container (max-width: 340px) {
+  .tile {
+    flex-direction: column;
+  }
+} */
+
+/* pojmenování */
+
+/* .sidebar {
+  container-type: inline-size;
+  container-name: sidebar-container;
+}
+
+@container sidebar-container (max-width: 250px) {
+  .tile {
+    background: green;
+  }
+} */
